@@ -22,7 +22,7 @@ AkiChat是一款企业级高性能即时通讯系统，基于微服务架构和�
   - 个人信息
   - 漂流瓶
 <div style="display: flex; justify-content: space-around;">
-  <img src="pics/2001.PNG" alt="Image 3" style="width: 90%;"/>
+  <img src="pics/2001.png" alt="Image 3" style="width: 90%;"/>
 </div>
 
 
@@ -34,8 +34,8 @@ AkiChat是一款企业级高性能即时通讯系统，基于微服务架构和�
 - **异常率**: 接近**0%**，平均不高于**0.5％**
 ### **具体数据请审阅本从仓库的csv测试结果集**
 
-  <img src="pics/1001.PNG" alt="Image 3" style="width: 100%;"/>
-  <img src="pics/1002.PNG" alt="Image 3" style="width: 100%;"/>
+  <img src="pics/1001.png" alt="Image 3" style="width: 100%;"/>
+  <img src="pics/1002.png" alt="Image 3" style="width: 100%;"/>
 
 
 
