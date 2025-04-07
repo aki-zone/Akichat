@@ -49,11 +49,5 @@ AkiChat是一款企业级高性能即时通讯系统，基于微服务架构和�
 - **H5版**: [在线地址](http://www.akichat.site)
 
 
-## 📄 许可证
-Akichat源码公开后在 Apache License 2.0 许可下可用。查看[LICENSE](LICENSE.txt)文件了解更多信息。
-
-## 📞 联系方式
-- [个人主页](https://github.com/aki-zone)
-
 ## 🌟 鸣谢
-感谢所有相关公开文献及支持该项目的用户成员！
+感谢所有相关公开文献 导师及参与开发项目的用户成员。
